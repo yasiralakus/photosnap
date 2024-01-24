@@ -164,7 +164,7 @@ body {
 
 .homeTopItem1Img {
     width: 100%;
-    background: url('./img/Home/HomeTop/first.png') no-repeat;
+    background: url('../img/Home/HomeTop/first.png') no-repeat;
     background-size: cover;
     background-position: center;
 
